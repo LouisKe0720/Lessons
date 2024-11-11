@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Pygame"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Nim"
+		}
+	],
+	"settings": {}
+}

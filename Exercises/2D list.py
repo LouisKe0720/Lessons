@@ -31,7 +31,7 @@ shoe_rack.pop()
 print(shoe_rack)
 
 #Removes the list that has this argument.
-# shoe_rack.remove(["ballet shoes", "red high heels"])
+# shoe_rack.remove(["ballet shoes", "red high heels"])ruby
 print(shoe_rack)
 
 shoe_rack = []
